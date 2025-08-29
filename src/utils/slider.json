@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Borrowdale North Estate",
+    "price": "120,000",
+    "detail": "Green Close, Borrowdale North, Harare Low Density Suburb",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Avondale South Park",
+    "price": "95,000",
+    "detail": "Blue Street, Avondale South, Harare Low Density Suburb",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Mount Pleasant Heights Villa",
+    "price": "85,500",
+    "detail": "Lingfield Drive, Mount Pleasant Heights, Harare Low Density Suburb",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Greendale Luxury Gardens",
+    "price": "110,000",
+    "detail": "Cambridge Road, Greendale, Harare Low Density Suburb",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Marlborough Executive Park",
+    "price": "78,000",
+    "detail": "Tynwald Road, Marlborough, Harare Low Density Suburb",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Highlands Modern Estate",
+    "price": "130,000",
+    "detail": "Enterprise Road, Highlands, Harare Low Density Suburb",
+    "image": "./r3.png"
+  }
+]
